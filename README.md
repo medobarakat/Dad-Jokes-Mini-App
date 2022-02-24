@@ -1,3 +1,5 @@
-# nuxt-starter-6kn7e4
+# Dad-Jokes-Mini-App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-6kn7e4)
+## made With Nuxt-js , Axios
+
+
