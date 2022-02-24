@@ -11,8 +11,9 @@ export default {
 </template>
 <style>
 .footer {
-  margin-top: 1rem;
+  margin-top: 5rem;
   padding-top: 1rem;
   font-size: 1.5rem;
+  display: sticky;
 }
 </style>
