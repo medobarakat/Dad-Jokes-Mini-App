@@ -15,7 +15,7 @@ export default {
 
 <template>
   <div class="container">
-    <div>Welcome To The Site</div>
+    <h1>Welcome To The Site</h1>
   </div>
 </template>
 <style>

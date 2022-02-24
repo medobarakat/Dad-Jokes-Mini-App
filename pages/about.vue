@@ -14,6 +14,12 @@ export default {
 </script>
 <template>
   <div>
-    <h1>This Is About Page</h1>
+    <h3>Simple Excercise Of Nuxt Js , Fetching Data With Axios.</h3>
+    <h4>Hope You Like It</h4>
   </div>
 </template>
+<style>
+h3 {
+  margin-bottom: 3rem;
+}
+</style>
