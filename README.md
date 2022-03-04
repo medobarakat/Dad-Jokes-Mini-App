@@ -2,6 +2,6 @@
 
 ## made With Nuxt-js , Axios
 
-## getting updated
+## getting updated on the way
 
 
